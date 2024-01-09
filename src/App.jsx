@@ -12,7 +12,7 @@ function App() {
           clg: "godavari",
           roll: "45",
         }}
-        color="red"
+        color="black"
       />
       <Greeting uname="rohit " profile={{ clg: " gh raisoni" }} />
     </div>
